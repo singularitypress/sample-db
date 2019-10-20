@@ -1,346 +1,127 @@
 {
-  "marketArticles": [
+  "topArticles": [
     {
-      "id": 1472142890,
-      "title": "After 10 Years, Historic Grimke School Redevelopment Gets Its Groundbreaking",
-      "summary": "Community Three's Project to Include Office, Retail and a New Home for the African American Civil War Museum",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 59,
+      "id": 1852709467,
+      "title": "Industrial Webinar: Market Shows Strength Through 2024",
+      "summary": "CoStar's Abby Corbett, Christine Cooper Describe Positive Signs in Ultra-Tight Market",
+      "author": {
+        "name": "Mark Heschmeyer",
+        "email": "mheschmeyer@costar.com"
+      },
+      "impressions": 270,
       "attachments": {
         "items": [
           {
-            "uri": "https://costar.brightspotcdn.com/e9/dd/6c6bfd874c0f922edc7adc2c2400/historic.jpg",
-            "caption": "The first phase of what is being called the 9½ Street Initiative is scheduled to be completed next fall. (Torti Gallas + Partners)",
+            "uri": "https://costar.brightspotcdn.com/a0/7f/f31a9a3a4d94b77a770bd32b02a1/play-report-video-cover.jpg",
             "i": true,
-            "w": 2100,
-            "h": 1400,
+            "w": 1500,
+            "h": 1000,
             "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/5b7a0f6/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/2a3651e/2147483647/strip/true/crop/2100x1400+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/59c5502/2147483647/strip/true/crop/2100x1050+0+175/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/2efc893/2147483647/strip/true/crop/2100x945+0+228/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/ad6b7f8/2147483647/strip/true/crop/1400x1400+350+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/1cf7f4e/2147483647/strip/true/crop/2100x1400+0+0/resize/2100x1400!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/db9c982/2147483647/strip/true/crop/700x1400+700+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/a6f8571/2147483647/strip/true/crop/1400x1400+350+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/13333ec/2147483647/strip/true/crop/1400x1400+350+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/75e1e0f/2147483647/strip/true/crop/2100x524+0+438/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/180b34d/2147483647/strip/true/crop/933x1400+583+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/37322aa/2147483647/strip/true/crop/1400x1400+350+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/aeaedbb/2147483647/strip/true/crop/2100x1181+0+109/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/5b7a0f6/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/c055040/2147483647/strip/true/crop/933x1400+583+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/2385976/2147483647/strip/true/crop/2100x1400+0+0/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/f5cc3ee/2147483647/strip/true/crop/1400x1400+350+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/2982232/2147483647/strip/true/crop/467x1400+817+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/4185bc1/2147483647/strip/true/crop/2100x1400+0+0/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/53f66a6/2147483647/strip/true/crop/2100x1400+0+0/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/9633cb6/2147483647/strip/true/crop/1400x1400+350+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/5c90836/2147483647/strip/true/crop/955x1400+573+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe9%2Fdd%2F6c6bfd874c0f922edc7adc2c2400%2Fhistoric.jpg"
+              "small": "https://costar.brightspotcdn.com/dims4/default/8878381/2147483647/strip/true/crop/1500x1000+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa0%2F7f%2Ff31a9a3a4d94b77a770bd32b02a1%2Fplay-report-video-cover.jpg",
+              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/b7361f4/2147483647/strip/true/crop/1500x1000+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa0%2F7f%2Ff31a9a3a4d94b77a770bd32b02a1%2Fplay-report-video-cover.jpg",
+              "large": "https://costar.brightspotcdn.com/dims4/default/ae73e39/2147483647/strip/true/crop/1500x750+0+0/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa0%2F7f%2Ff31a9a3a4d94b77a770bd32b02a1%2Fplay-report-video-cover.jpg",
+              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/f439bd6/2147483647/strip/true/crop/1500x675+0+3/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa0%2F7f%2Ff31a9a3a4d94b77a770bd32b02a1%2Fplay-report-video-cover.jpg"
             }
           }
         ]
       },
-      "tags": 524416,
-      "propertyIds": [6329262],
+      "tags": 68,
+      "countries": ["USA"],
+      "editorialTagIds": [],
+      "created": "2019-10-18T11:17:22-04:00",
+      "updated": "2019-10-18T20:34:29-04:00"
+    },
+    {
+      "id": 1810023788,
+      "title": "Trump Turns G-7 Into a Global Spotlight on His Commercial Real Estate",
+      "summary": "White House Staff Argues Hotel Is Well-Suited to Host Summit, Drawing Focus on the Property",
+      "author": { "name": "Paul Owers", "email": "powers@costar.com" },
+      "impressions": 114,
+      "attachments": {
+        "items": [
+          {
+            "uri": "https://costar.brightspotcdn.com/be/dd/c636fc054fe8b00ee18ca527100b/gettyimages-802207812-1800.jpg",
+            "caption": "The clubhouse at the Trump National Doral Miami Golf Shop. (Washington Post/Getty Images)",
+            "i": true,
+            "w": 1800,
+            "h": 1200,
+            "crops": {
+              "small": "https://costar.brightspotcdn.com/dims4/default/c3ad1bf/2147483647/strip/true/crop/1800x1200+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fbe%2Fdd%2Fc636fc054fe8b00ee18ca527100b%2Fgettyimages-802207812-1800.jpg",
+              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/3e43553/2147483647/strip/true/crop/1800x1200+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fbe%2Fdd%2Fc636fc054fe8b00ee18ca527100b%2Fgettyimages-802207812-1800.jpg",
+              "large": "https://costar.brightspotcdn.com/dims4/default/e6a25aa/2147483647/strip/true/crop/1800x900+0+150/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fbe%2Fdd%2Fc636fc054fe8b00ee18ca527100b%2Fgettyimages-802207812-1800.jpg",
+              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/3ebc266/2147483647/strip/true/crop/1800x810+0+195/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fbe%2Fdd%2Fc636fc054fe8b00ee18ca527100b%2Fgettyimages-802207812-1800.jpg"
+            }
+          }
+        ]
+      },
+      "tags": 2048,
+      "propertyIds": [5744536],
+      "marketIds": [37],
+      "countries": ["USA"],
+      "editorialTagIds": [],
+      "created": "2019-10-18T15:15:48-04:00",
+      "updated": "2019-10-18T15:15:47-04:00"
+    },
+    {
+      "id": 562550660,
+      "title": "Even 20 Miles From HQ2, a Virginia Developer Has Eyes on Amazon",
+      "summary": "Grace Street Properties Plans to Convert Shopping Plaza to Town Center ",
+      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
+      "impressions": 257,
+      "attachments": {
+        "items": [
+          {
+            "uri": "https://costar.brightspotcdn.com/73/84/ea7c86be48adb84582af7d19281f/190514-mets678-park-view-rendering-amazonpr.jpg",
+            "caption": "Amazon&#39;s planned HQ2, rendered above, has developers anticipating added demand throughout the area. (Amazon)",
+            "i": true,
+            "w": 1800,
+            "h": 1200,
+            "crops": {
+              "small": "https://costar.brightspotcdn.com/dims4/default/6fabde5/2147483647/strip/true/crop/1800x1200+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg",
+              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/828f91e/2147483647/strip/true/crop/1800x1200+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg",
+              "large": "https://costar.brightspotcdn.com/dims4/default/2091626/2147483647/strip/true/crop/1800x900+0+150/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg",
+              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/8dd345c/2147483647/strip/true/crop/1800x810+0+195/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg"
+            }
+          }
+        ]
+      },
+      "tags": 131080,
+      "propertyIds": [711570],
       "marketIds": [40],
       "countries": ["USA"],
       "editorialTagIds": [],
-      "created": "2019-10-18T09:42:18-04:00",
-      "updated": "2019-10-18T09:42:18-04:00"
+      "created": "2019-10-16T18:28:20-04:00",
+      "updated": "2019-10-18T10:49:40-04:00"
     },
     {
-      "id": 765666653,
-      "title": "Did You Hear? JLL Apartment Team in DC Jumps to Newmark",
+      "id": 425140988,
+      "title": "Did You Hear? Small Loan Shop Sabal is Getting Bigger",
       "summary": "A Daily Look at the Movers and Shakers in Commercial Real Estate",
       "author": { "name": "John Doherty", "email": "jdoherty@costar.com" },
-      "impressions": 439,
+      "impressions": 237,
       "attachments": {
         "items": [
           {
-            "uri": "https://costar.brightspotcdn.com/c5/ac/602711d140aca97787d581b7baec/espenshade.jpg",
-            "caption": "Christine Espenshade had been co-head of JLL&#39;s apartment sales team. At Newmark, she&#39;ll concentrate on the D.C. area, which she calls &quot;red hot.&quot; (Courtesy of NKF)",
+            "uri": "https://costar.brightspotcdn.com/47/f9/9caec0be4d34ac820716dd2c8b82/atoy.jpg",
+            "caption": "Former Wells Fargo executive Alison Toy will head up Sabal&#39;s underwriting efforts in New York. She&#39;s one of four new hires the firm announced this week. (Courtesy of Sabal)",
             "i": true,
             "w": 2100,
             "h": 1400,
             "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/1cb2252/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/1e063ca/2147483647/strip/true/crop/2100x1400+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/2287edd/2147483647/strip/true/crop/2100x1050+0+175/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/bc85b71/2147483647/strip/true/crop/2100x945+0+228/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/7d10a5b/2147483647/strip/true/crop/1400x1400+350+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/243702a/2147483647/strip/true/crop/2100x1400+0+0/resize/2100x1400!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/dbff797/2147483647/strip/true/crop/700x1400+700+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/672d48a/2147483647/strip/true/crop/1400x1400+350+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/3e74b50/2147483647/strip/true/crop/1400x1400+350+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/6d9be3d/2147483647/strip/true/crop/2100x524+0+438/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/94480aa/2147483647/strip/true/crop/933x1400+583+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/bd73012/2147483647/strip/true/crop/1400x1400+350+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/3812663/2147483647/strip/true/crop/2100x1181+0+109/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/1cb2252/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/6465e52/2147483647/strip/true/crop/933x1400+583+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/c8fcc87/2147483647/strip/true/crop/2100x1400+0+0/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/0063905/2147483647/strip/true/crop/1400x1400+350+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/b04eb11/2147483647/strip/true/crop/467x1400+817+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/263b4d8/2147483647/strip/true/crop/2100x1400+0+0/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/9a4ea33/2147483647/strip/true/crop/2100x1400+0+0/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/d2772a3/2147483647/strip/true/crop/1400x1400+350+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/e399582/2147483647/strip/true/crop/955x1400+573+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fc5%2Fac%2F602711d140aca97787d581b7baec%2Fespenshade.jpg"
+              "small": "https://costar.brightspotcdn.com/dims4/default/e3097c0/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F47%2Ff9%2F9caec0be4d34ac820716dd2c8b82%2Fatoy.jpg",
+              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/dc72b73/2147483647/strip/true/crop/2100x1400+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F47%2Ff9%2F9caec0be4d34ac820716dd2c8b82%2Fatoy.jpg",
+              "large": "https://costar.brightspotcdn.com/dims4/default/288ae90/2147483647/strip/true/crop/2100x1050+0+175/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F47%2Ff9%2F9caec0be4d34ac820716dd2c8b82%2Fatoy.jpg",
+              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/a8bfe8a/2147483647/strip/true/crop/2100x945+0+228/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F47%2Ff9%2F9caec0be4d34ac820716dd2c8b82%2Fatoy.jpg"
             }
           }
         ]
       },
-      "tags": 2098177,
-      "marketIds": [40],
+      "tags": 2097409,
+      "marketIds": [22, 26],
       "countries": ["USA"],
       "editorialTagIds": [],
-      "created": "2019-10-17T12:15:34-04:00",
-      "updated": "2019-10-17T12:15:35-04:00"
-    },
-    {
-      "id": 1340017215,
-      "title": "Developer Cleared to Build Tallest Skyscraper Near Nation's Capital",
-      "summary": "Tower to Be Centerpiece of $1.3 Billion Project Called The View at Tysons",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 482,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/59/91/dd0576a6438caf993cf75aebf4c6/tysons.jpg",
-            "caption": "The View would bring roughly 3 million square feet of development next to the Spring Hill Metro station. (Gensler)",
-            "i": true,
-            "w": 2100,
-            "h": 1399,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/a996093/2147483647/strip/true/crop/2099x1399+1+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/947d4db/2147483647/strip/true/crop/2100x1399+0+0/resize/1880x1252!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/5e0b5be/2147483647/strip/true/crop/2100x1050+0+175/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/4ebee45/2147483647/strip/true/crop/2100x945+0+227/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/b290e7a/2147483647/strip/true/crop/1399x1399+351+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/f686c1e/2147483647/strip/true/crop/2100x1399+0+0/resize/2100x1399!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/6a4d0ac/2147483647/strip/true/crop/700x1399+700+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/26e6284/2147483647/strip/true/crop/1399x1399+351+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/ea27090/2147483647/strip/true/crop/1399x1399+351+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/0a706ef/2147483647/strip/true/crop/2100x524+0+438/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/62898f0/2147483647/strip/true/crop/933x1399+584+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/8202df5/2147483647/strip/true/crop/1399x1399+351+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/f9fee6c/2147483647/strip/true/crop/2100x1181+0+109/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/a996093/2147483647/strip/true/crop/2099x1399+1+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/b677b4a/2147483647/strip/true/crop/933x1399+584+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/f5164da/2147483647/strip/true/crop/2099x1399+1+0/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/02f6d25/2147483647/strip/true/crop/1399x1399+351+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/f76b2f9/2147483647/strip/true/crop/466x1399+817+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/205fcdd/2147483647/strip/true/crop/2099x1399+1+0/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/db6815e/2147483647/strip/true/crop/2099x1399+1+0/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/a37746c/2147483647/strip/true/crop/1399x1399+351+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/1293deb/2147483647/strip/true/crop/954x1399+573+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F59%2F91%2Fdd0576a6438caf993cf75aebf4c6%2Ftysons.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 263306,
-      "propertyIds": [10734593],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-16T15:57:40-04:00",
-      "updated": "2019-10-16T19:01:43-04:00"
-    },
-    {
-      "id": 149628906,
-      "title": "Skanska Snaps Up Arlington, Virginia, Site for Latest Development",
-      "summary": "Firm Plans to Build Office-Retail Project in Rosslyn-Ballston Corridor",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 179,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/e7/61/d265dfbb4e7c8a8df8db59477383/bryce.jpg",
-            "caption": "Skanska&#39;s project would be located three blocks from the Virginia Square-GMU Metro station. (Skanska)",
-            "i": true,
-            "w": 2100,
-            "h": 1401,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/41c7ed0/2147483647/strip/true/crop/2100x1400+0+1/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/df7e62b/2147483647/strip/true/crop/2100x1401+0+0/resize/1880x1254!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/68ffd70/2147483647/strip/true/crop/2100x1050+0+176/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/62f14be/2147483647/strip/true/crop/2100x945+0+228/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/6c2c4ed/2147483647/strip/true/crop/1401x1401+350+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/5e9dc94/2147483647/strip/true/crop/2100x1401+0+0/resize/2100x1401!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/ae81129/2147483647/strip/true/crop/701x1401+700+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/2f4c1da/2147483647/strip/true/crop/1401x1401+350+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/cad705f/2147483647/strip/true/crop/1401x1401+349+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/1bca6df/2147483647/strip/true/crop/2100x524+0+439/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/6fe48d6/2147483647/strip/true/crop/934x1401+583+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/d5595e3/2147483647/strip/true/crop/1401x1401+350+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/cfb7855/2147483647/strip/true/crop/2100x1181+0+110/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/41c7ed0/2147483647/strip/true/crop/2100x1400+0+1/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/1cf4854/2147483647/strip/true/crop/934x1401+583+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/946242d/2147483647/strip/true/crop/2100x1400+0+1/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/6cbacea/2147483647/strip/true/crop/1401x1401+350+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/3fc967d/2147483647/strip/true/crop/467x1401+817+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/ba4bc49/2147483647/strip/true/crop/2100x1400+0+1/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/3aae482/2147483647/strip/true/crop/2100x1400+0+1/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/55636f0/2147483647/strip/true/crop/1401x1401+350+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/1acd95e/2147483647/strip/true/crop/955x1401+572+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fe7%2F61%2Fd265dfbb4e7c8a8df8db59477383%2Fbryce.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 131202,
-      "propertyIds": [8081595, 11228250],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-15T18:54:11-04:00",
-      "updated": "2019-10-16T11:56:32-04:00"
-    },
-    {
-      "id": 1835569678,
-      "title": "Koons Dealership With Development Potential Hits the Market in Tysons, Virginia",
-      "summary": "Cushman & Wakefield Lists Ground Lease Opportunity for Multiphased, Transit-Oriented Project",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 269,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/5f/72/5d953ad54594a4576be8edeac57e/tysons.jpg",
-            "caption": "More than 14 acres near the Greensboro Metro station is now available for development. (Cushman &amp; Wakefield)",
-            "i": true,
-            "w": 2100,
-            "h": 1401,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/c23ddd6/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/5e053eb/2147483647/strip/true/crop/2100x1401+0+0/resize/1880x1254!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/40d21f6/2147483647/strip/true/crop/2100x1050+0+0/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/af744af/2147483647/strip/true/crop/2100x945+0+0/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/404ce4b/2147483647/strip/true/crop/1401x1401+553+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/82fad6e/2147483647/strip/true/crop/2100x1401+0+0/resize/2100x1401!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/15c7971/2147483647/strip/true/crop/701x1401+903+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/c45824e/2147483647/strip/true/crop/1401x1401+553+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/7f7b387/2147483647/strip/true/crop/1401x1401+553+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/e465811/2147483647/strip/true/crop/2100x524+0+0/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/6ed4eaa/2147483647/strip/true/crop/934x1401+787+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/eb5c1c4/2147483647/strip/true/crop/1401x1401+553+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/0848fd6/2147483647/strip/true/crop/2100x1181+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/c23ddd6/2147483647/strip/true/crop/2100x1400+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/4cdca17/2147483647/strip/true/crop/934x1401+787+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/67c7eb5/2147483647/strip/true/crop/2100x1400+0+0/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/bd46110/2147483647/strip/true/crop/1401x1401+553+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/487e845/2147483647/strip/true/crop/467x1401+1020+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/f111bed/2147483647/strip/true/crop/2100x1400+0+0/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/25bab54/2147483647/strip/true/crop/2100x1400+0+0/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/651e88b/2147483647/strip/true/crop/1401x1401+553+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/b219b3f/2147483647/strip/true/crop/955x1401+776+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F5f%2F72%2F5d953ad54594a4576be8edeac57e%2Ftysons.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 65664,
-      "propertyIds": [11227726],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-14T18:10:35-04:00",
-      "updated": "2019-10-15T17:36:36-04:00"
-    },
-    {
-      "id": 1220846248,
-      "title": "Planning Board Recommends Approval of $1.3 Billion The View in Tysons, Virginia",
-      "summary": "Mixed-Use Project Would Include Area's Tallest Office Building",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 345,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/33/f9/3f750cf7454eae8a6069bd324ca5/tysons.jpg",
-            "caption": "Clemente Development Co. is planning 3 million square feet of commercial space in Tysons, Virginia. (Clemente Development)",
-            "i": true,
-            "w": 2100,
-            "h": 1399,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/b3a66b1/2147483647/strip/true/crop/2099x1399+1+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/e42bf31/2147483647/strip/true/crop/2100x1399+0+0/resize/1880x1252!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/679e93d/2147483647/strip/true/crop/2100x1050+0+175/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/cece3d7/2147483647/strip/true/crop/2100x945+0+227/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/4e32dd7/2147483647/strip/true/crop/1399x1399+351+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/4f32ff1/2147483647/strip/true/crop/2100x1399+0+0/resize/2100x1399!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/0c812f6/2147483647/strip/true/crop/700x1399+700+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/b8262bb/2147483647/strip/true/crop/1399x1399+351+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/90fe7d5/2147483647/strip/true/crop/1399x1399+351+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/69469ea/2147483647/strip/true/crop/2100x524+0+438/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/e570af5/2147483647/strip/true/crop/933x1399+584+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/2410c7e/2147483647/strip/true/crop/1399x1399+351+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/0036d78/2147483647/strip/true/crop/2100x1181+0+109/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/b3a66b1/2147483647/strip/true/crop/2099x1399+1+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/cd59289/2147483647/strip/true/crop/933x1399+584+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/2b5c5ef/2147483647/strip/true/crop/2099x1399+1+0/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/4a535d2/2147483647/strip/true/crop/1399x1399+351+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/7cb31ba/2147483647/strip/true/crop/466x1399+817+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/783fb9a/2147483647/strip/true/crop/2099x1399+1+0/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/8ae0dd6/2147483647/strip/true/crop/2099x1399+1+0/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/bfe63c8/2147483647/strip/true/crop/1399x1399+351+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/adf42c4/2147483647/strip/true/crop/954x1399+573+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F33%2Ff9%2F3f750cf7454eae8a6069bd324ca5%2Ftysons.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 262274,
-      "propertyIds": [10734593],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-11T18:27:48-04:00",
-      "updated": "2019-10-14T11:40:42-04:00"
-    },
-    {
-      "id": 1469051410,
-      "title": "Carr Properties Gets $525 Million Financing for Fannie Mae Headquarters",
-      "summary": "DC Firm Refinances Loan for Midtown Center Complex Appraised at Nearly $1 Billion",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 401,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/a1/8f/89f000ed44eeb420c917d33c8a78/midtown-center.jpg",
-            "caption": "Carr Properties completed development last year on Midtown Center in Northwest D.C. (CoStar)",
-            "i": true,
-            "w": 1263,
-            "h": 900,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/763419b/2147483647/strip/true/crop/1263x842+0+29/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/0238dec/2147483647/strip/true/crop/1263x900+0+0/resize/1880x1340!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "large": "https://costar.brightspotcdn.com/dims4/default/0399fa4/2147483647/strip/true/crop/1263x632+0+134/resize/1000x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "landscape_small_dyh": "https://costar.brightspotcdn.com/dims4/default/bd40878/2147483647/strip/true/crop/1263x568+0+166/resize/500x225!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "socialSharing": "https://costar.brightspotcdn.com/dims4/default/dc71dbe/2147483647/strip/true/crop/900x900+182+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "NoCrop": "https://costar.brightspotcdn.com/dims4/default/c2e8279/2147483647/strip/true/crop/1263x900+0+0/resize/1263x900!/quality/100/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "vertical_small": "https://costar.brightspotcdn.com/dims4/default/02fdea0/2147483647/strip/true/crop/450x900+407+0/resize/750x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "square_medium": "https://costar.brightspotcdn.com/dims4/default/10d4da8/2147483647/strip/true/crop/900x900+182+0/resize/750x750!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "square_avatar": "https://costar.brightspotcdn.com/dims4/default/c6d9f62/2147483647/strip/true/crop/900x900+182+0/resize/140x140!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "medium_landscape_4-1": "https://costar.brightspotcdn.com/dims4/default/a06f32a/2147483647/strip/true/crop/1263x315+0+293/resize/750x187!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "vertical_xSmall": "https://costar.brightspotcdn.com/dims4/default/3b13e3b/2147483647/strip/true/crop/600x900+332+0/resize/300x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "square_large": "https://costar.brightspotcdn.com/dims4/default/315e5da/2147483647/strip/true/crop/900x900+182+0/resize/1500x1500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "twitterSharing": "https://costar.brightspotcdn.com/dims4/default/ed275ad/2147483647/strip/true/crop/1263x710+0+95/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "landscape_XSmall": "https://costar.brightspotcdn.com/dims4/default/763419b/2147483647/strip/true/crop/1263x842+0+29/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "vertical_medium": "https://costar.brightspotcdn.com/dims4/default/7ad5793/2147483647/strip/true/crop/600x900+332+0/resize/900x1350!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "medium_landscape": "https://costar.brightspotcdn.com/dims4/default/064cf18/2147483647/strip/true/crop/1263x842+0+29/resize/750x500!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "tiny": "https://costar.brightspotcdn.com/dims4/default/1b138f3/2147483647/strip/true/crop/900x900+182+0/resize/50x50!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "vertical_xNarrow": "https://costar.brightspotcdn.com/dims4/default/0b82b35/2147483647/strip/true/crop/300x900+482+0/resize/1000x3000!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "large_landscape": "https://costar.brightspotcdn.com/dims4/default/1bd55f1/2147483647/strip/true/crop/1263x842+0+29/resize/1800x1200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "landscape_small": "https://costar.brightspotcdn.com/dims4/default/bfe209c/2147483647/strip/true/crop/1263x842+0+29/resize/450x300!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "square_small": "https://costar.brightspotcdn.com/dims4/default/206f2b2/2147483647/strip/true/crop/900x900+182+0/resize/450x450!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg",
-              "vertical_large": "https://costar.brightspotcdn.com/dims4/default/773865d/2147483647/strip/true/crop/614x900+325+0/resize/1500x2200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2Fa1%2F8f%2F89f000ed44eeb420c917d33c8a78%2Fmidtown-center.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 258,
-      "propertyIds": [9572922, 10564872],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-11T14:11:53-04:00",
-      "updated": "2019-10-11T15:49:10-04:00"
+      "created": "2019-10-18T12:01:51-04:00",
+      "updated": "2019-10-18T12:01:51-04:00"
     }
   ]
 }
