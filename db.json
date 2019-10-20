@@ -53,39 +53,10 @@
       "tags": 2048,
       "propertyIds": [5744536],
       "marketIds": [37],
-      "countries": ["USA"],
+      "countries": ["USA", "USA"],
       "editorialTagIds": [],
       "created": "2019-10-18T15:15:48-04:00",
       "updated": "2019-10-18T15:15:47-04:00"
-    },
-    {
-      "id": 562550660,
-      "title": "Even 20 Miles From HQ2, a Virginia Developer Has Eyes on Amazon",
-      "summary": "Grace Street Properties Plans to Convert Shopping Plaza to Town Center ",
-      "author": { "name": "Bryce Meyers", "email": "bmeyers@costar.com" },
-      "impressions": 257,
-      "attachments": {
-        "items": [
-          {
-            "uri": "https://costar.brightspotcdn.com/73/84/ea7c86be48adb84582af7d19281f/190514-mets678-park-view-rendering-amazonpr.jpg",
-            "caption": "Amazon&#39;s planned HQ2, rendered above, has developers anticipating added demand throughout the area. (Amazon)",
-            "i": true,
-            "w": 1800,
-            "h": 1200,
-            "crops": {
-              "small": "https://costar.brightspotcdn.com/dims4/default/6fabde5/2147483647/strip/true/crop/1800x1200+0+0/resize/300x200!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg",
-              "fullWidth": "https://costar.brightspotcdn.com/dims4/default/828f91e/2147483647/strip/true/crop/1800x1200+0+0/resize/1880x1253!/quality/90/?url=https%3A%2F%2Fcostar.brightspotcdn.com%2F73%2F84%2Fea7c86be48adb84582af7d19281f%2F190514-mets678-park-view-rendering-amazonpr.jpg"
-            }
-          }
-        ]
-      },
-      "tags": 131080,
-      "propertyIds": [711570],
-      "marketIds": [40],
-      "countries": ["USA"],
-      "editorialTagIds": [],
-      "created": "2019-10-16T18:28:20-04:00",
-      "updated": "2019-10-18T10:49:40-04:00"
     },
     {
       "id": 562550660,
